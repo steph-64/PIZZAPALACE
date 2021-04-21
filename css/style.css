@@ -1,7 +1,10 @@
-#{
-    margin: 0%;
-    padding: 0%;
-    box-sizing: border-box;
+            
+#home{background-image: url(/images/logo.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    height: 80vh;
+    position: relative;
 }
 
 nav{
@@ -10,6 +13,13 @@ nav{
     align-items: center;
     min-height: 8vh;
     background-color: darkslategray;
-    
+    font-family: Georgia, 'Times New Roman', Times, serif;
 
+}
+
+.logo{
+    color: rgb(184, 159, 159);
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    font-size: 20px;
 }
