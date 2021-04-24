@@ -14,47 +14,47 @@ function getNumber() {
     return parseInt(selectedNumber);
 }
 
-function mushrooms() {
-    var mushroom = 0;
-    var addMushroom = document.getElementById("toppingone");
+function mushroomsandgarlic() {
+    var addMushroomandgarlicchecked= 0;
+    var addMushroomandgarlic= document.getElementById("toppingone");
     if (addMushroom.checked === true) {
         mushroom = 150;
     }
-    return parseInt(mushroom);
+    return parseInt(Mushroomsandgarlic);
 }
 
-function sausages() {
-    var sausage = 0;
-    var addsausage = document.getElementById("toppingone");
-    if (addsausage.checked === true) {
-        sausage = 140;
+function sausagesandkale() {
+    var sausageandkale = 0;
+    var addsausageandkale = document.getElementById("toppingone");
+    if (addsausageandkale.checked === true) {
+        sausagesandkale = 140;
     }
     return parseInt(sausage);
 }
 
-function onions() {
-    var onion = 0;
-    var addonions = document.getElementById("toppingone");
-    if (addMushroom.checked === true) {
-        onion = 130;
+function cheeseandgarlic() {
+    var cheeseandgarlic= 0;
+    var addocheeseandgarlic = document.getElementById("toppingone");
+    if (addcheesendgarlicchecked === true) {
+        cheeseandgarlic = 130;
     }
     return parseInt(onion);
 }
 
-function tikkaSaucee() {
-    var tikkaSauce = 0;
-    var addtikkaSauce = document.getElementById("toppingone");
-    if (addtikkaSauce.checked === true) {
-        tikkaSauce = 120;
+function () {
+    var hamandpineapple= 0;
+    var addhamandpineapple = document.getElementById("toppingone");
+    if (addhamandpineapple.checked === true) {
+        hamandpineapple = 120;
     }
     return parseInt(tikkaSauce);
 }
 
-function mozarellaCheese() {
-    var cheese = 0;
-    var addmozarellaCheese = document.getElementById("toppingone");
-    if (addmozarellaCheese.checked === true) {
-        cheese = 110;
+function tomatoesandspinach() {
+    var tomatoesandspinach = 0;
+    var addtomatoesandspinach = document.getElementById("toppingone");
+    if (tomatoesandspinach.checked === true) {
+        tomatoesandspinach= 110;
     }
     return parseInt(cheese);
 }
