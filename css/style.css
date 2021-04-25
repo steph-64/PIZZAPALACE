@@ -12,8 +12,21 @@
 }
 .logo{
     color: rgb(155, 107, 107);
-    text-transform:uppercase;
-
+    text-transform:uppercase; 
+}
+.nav-links{
+    display: flex;
+    justify-content: space-around;
+    width.40;
+}
+.nav-links li{
+    
+}
+.nav-links a {
+    color: rgb(155, 107, 107);
+    text-decoration-line:none ;
+    font-weight: bold;
+    font-size: 14px;
 }
 
 
