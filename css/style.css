@@ -10,7 +10,11 @@
     align-items:center;
     
 }
+.logo{
+    color: rgb(155, 107, 107);
+    text-transform:uppercase;
 
+}
 
 
 
