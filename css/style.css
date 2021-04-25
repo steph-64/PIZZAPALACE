@@ -55,8 +55,10 @@ html{
 }
 #home{ 
     background-image:url(/images/logo.jpeg);
+    background-repeat: no-repeat;
     height: 100vh;
     background-position:center;
+    background-size:cover ;
     position: relative;
     padding-top:5rem;
     
@@ -67,6 +69,9 @@ html{
 
 #about{
     background-image:url(/images/pizza_n.jpg);
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size: cover;
     background-attachment: fixed;
     height: 620px;
     position: relative;
