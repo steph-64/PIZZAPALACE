@@ -54,7 +54,7 @@ html{
     background-color: rgb(221, 140, 64);
 }
 #home{ 
-    background-image:url(/images/logo.jpeg);
+    background-image:url(/logo.jpeg);
     background-repeat: no-repeat;
     height: 100vh;
     background-position:center;
@@ -68,7 +68,7 @@ html{
 }
 
 #about{
-    background-image:url(/images/pizza_n.jpg);
+    background-image:url(/download.jpeg);
     background-repeat: no-repeat;
     background-position:center;
     background-size: cover;
