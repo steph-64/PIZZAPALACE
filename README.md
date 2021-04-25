@@ -1,6 +1,5 @@
-# DELANISTUDIO
-This is a web application that takes the user's day of birth and calculates the day of week they were born
-depending on their gender outputs ,their Akan name.
+# PIZZAPALACE
+This is a web application that enables a customer to chose his pizza and put he toppings of his choice and th pizza size you want at a given price.
 ## Prerequisites
 Basic Git knowledge, including an installed version of Git.
 ##### Technologies Used
