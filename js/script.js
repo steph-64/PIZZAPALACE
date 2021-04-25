@@ -41,13 +41,13 @@ function cheeseandgarlic() {
     return parseInt(onion);
 }
 
-function () {
+function hamandpineapple () {
     var hamandpineapple= 0;
     var addhamandpineapple = document.getElementById("toppingone");
     if (addhamandpineapple.checked === true) {
         hamandpineapple = 120;
     }
-    return parseInt(tikkaSauce);
+    return parseInt(hamandpineapple);
 }
 
 function tomatoesandspinach() {
