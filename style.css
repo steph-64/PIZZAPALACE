@@ -22,7 +22,7 @@
     font-weight: bold;
     font-size: 14px;
 }
-#home{background-image: url(/images/logo.jpeg);
+#home{background-image: url(/logo.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment:fixed;
@@ -54,7 +54,7 @@ html{
     background-color: rgb(221, 140, 64);
 }
 #home{ 
-    background-image:url(/logo.jpeg);
+    background-image:url(/pizza_n.jpg);
     background-repeat: no-repeat;
     height: 100vh;
     background-position:center;
