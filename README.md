@@ -6,7 +6,7 @@ Basic Git knowledge, including an installed version of Git.
 - HTML & CSS 
 - Javascript
 ##### Setup Instructions and Installation
-- Clone this repository to a location in your file system. `git clone '
+- Clone this repository to a location in your file system. `git clonehttps://github.com/steph-64/PIZZAPALACE  '
 - Open terminal command line then navigate to the root folder of the application. `cd my-project`
 - Open `index.html` on your browser.
 ## Development
