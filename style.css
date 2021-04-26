@@ -22,7 +22,7 @@
     font-weight: bold;
     font-size: 14px;
 }
-#home{background-image: url(/logo.jpeg);
+#home{
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment:fixed;
